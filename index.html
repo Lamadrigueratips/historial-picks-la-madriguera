@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Historial de picks — La Madriguera 🦊</title>
+<style>
+  :root { --gold: #FFD700; --bg: #0e1512; --card: #16211c; --line: #2a3a32; --txt: #f2f2f2; --mut: #9fb3a8; --green: #22C55E; --red: #EF4444; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bg); color: var(--txt); font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.55; }
+  .wrap { max-width: 960px; margin: 0 auto; padding: 0 20px; }
+  header.hero { text-align: center; padding: 56px 20px 36px; border-bottom: 1px solid var(--line); }
+  .fox { font-size: 64px; }
+  h1 { color: var(--gold); font-size: 2rem; letter-spacing: 2px; margin: 12px 0 4px; }
+  .tagline { color: var(--mut); font-size: 1.05rem; max-width: 640px; margin: 0 auto; }
+  .tagline strong { color: var(--txt); }
+  .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin: 28px 0; }
+  .stat { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 16px 12px; text-align: center; }
+  .stat .v { font-size: 1.6rem; font-weight: 800; color: var(--gold); }
+  .stat .v.pos { color: var(--green); } .stat .v.neg { color: var(--red); }
+  .stat .l { color: var(--mut); font-size: .8rem; text-transform: uppercase; letter-spacing: 1px; margin-top: 4px; }
+  section { margin: 36px 0; }
+  h2 { color: var(--gold); font-size: 1.25rem; margin-bottom: 14px; letter-spacing: 1px; }
+  .steps { display: grid; gap: 12px; }
+  .step { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 16px 18px; }
+  .step b { color: var(--gold); }
+  table { width: 100%; border-collapse: collapse; font-size: .95rem; }
+  th, td { padding: 12px 10px; border-bottom: 1px solid var(--line); text-align: left; }
+  th { color: var(--gold); text-transform: uppercase; font-size: .75rem; letter-spacing: 1px; }
+  tr:hover td { background: #182420; }
+  .res-pend { color: var(--mut); } .res-win { color: var(--green); font-weight: 700; } .res-loss { color: var(--red); font-weight: 700; }
+  .u-pos { color: var(--green); font-weight: 700; } .u-neg { color: var(--red); font-weight: 700; }
+  a { color: var(--gold); }
+  .verify { background: var(--card); border: 1px solid var(--gold); border-radius: 12px; padding: 18px; }
+  .verify ol { margin: 8px 0 0 20px; color: var(--mut); }
+  .verify ol b, .verify p b { color: var(--txt); }
+  .btn { display: inline-block; margin-top: 12px; padding: 10px 22px; border: 1px solid var(--gold); border-radius: 999px; color: var(--gold); text-decoration: none; font-weight: 700; }
+  .btn:hover { background: var(--gold); color: #111; }
+  .empty { text-align: center; color: var(--mut); padding: 32px 12px; border: 1px dashed var(--line); border-radius: 12px; }
+  footer { border-top: 1px solid var(--line); margin-top: 48px; padding: 24px 20px 40px; text-align: center; color: var(--mut); font-size: .85rem; }
+  footer .r18 { display: inline-block; border: 2px solid var(--red); color: var(--red); border-radius: 50%; width: 44px; height: 44px; line-height: 40px; font-weight: 800; margin-bottom: 10px; }
+  .updated { color: var(--mut); font-size: .8rem; text-align: right; margin-top: 8px; }
+  @media (max-width: 640px) { table { font-size: .82rem; } th, td { padding: 8px 6px; } h1 { font-size: 1.5rem; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="hero">
+    <div class="fox">🦊</div>
+    <h1>LA MADRIGUERA</h1>
+    <p class="tagline">Historial público de picks. <strong>Cada pick queda registrado antes del partido</strong>, con su fecha sellada. Reescribir el pasado rompería la cadena y se vería.</p>
+  </header>
+
+  <div class="stats" id="stats">
+    <div class="stat"><div class="v" id="s-picks">0</div><div class="l">Picks</div></div>
+    <div class="stat"><div class="v" id="s-units">+0.0u</div><div class="l">Unidades</div></div>
+    <div class="stat"><div class="v" id="s-roi">—</div><div class="l">ROI</div></div>
+    <div class="stat"><div class="v" id="s-avg">—</div><div class="l">Cuota media</div></div>
+    <div class="stat"><div class="v" id="s-streak">—</div><div class="l">Racha</div></div>
+  </div>
+
+  <section>
+    <h2>CÓMO FUNCIONA</h2>
+    <div class="steps">
+      <div class="step"><b>1.</b> Antes del partido, el pick entra en el <b>registro público</b>: partido, pick, cuota y hora, sellados con fecha.</div>
+      <div class="step"><b>2.</b> Al terminar, se <b>añade el resultado</b> en un registro nuevo. Lo ya registrado no se toca jamás.</div>
+      <div class="step"><b>3.</b> Cada registro va encadenado al anterior. <b>Editar o borrar el pasado deja huella visible</b> para cualquiera.</div>
+    </div>
+  </section>
+
+  <section>
+    <h2>PICKS REGISTRADOS</h2>
+    <div id="table-wrap"><div class="empty">Cargando registro…</div></div>
+    <div class="updated" id="updated"></div>
+  </section>
+
+  <section>
+    <div class="verify">
+      <h2>VERIFÍCALO TÚ MISMO</h2>
+      <p>No te fíes de nosotros. El registro vive en un repositorio público:</p>
+      <ol>
+        <li>Abre el repositorio y entra en <b>picks/</b>.</li>
+        <li>Abre el archivo de un pick y pulsa <b>History</b>.</li>
+        <li>Comprueba que el registro original tiene <b>fecha anterior al partido</b>.</li>
+      </ol>
+      <a class="btn" href="https://github.com/Lamadrigueratips/historial-picks-la-madriguera" target="_blank" rel="noopener">Abrir el registro público</a>
+    </div>
+  </section>
+
+</div>
+
+<footer>
+  <div class="r18">18+</div>
+  <p>Juego responsable. Los picks son opiniones con datos, no garantías.<br>
+  1 unidad = 1% del bank por defecto. Verdes y rojos se publican por igual.</p>
+</footer>
+
+<script>
+const JSON_URL = "https://raw.githubusercontent.com/Lamadrigueratips/historial-picks-la-madriguera/main/picks.json";
+const REPO = "https://github.com/Lamadrigueratips/historial-picks-la-madriguera";
+
+function esc(s){ return String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
+
+function render(data){
+  const picks = (data && data.picks) || [];
+  const done = picks.filter(p => p.resultado === "verde" || p.resultado === "rojo");
+  const wins = picks.filter(p => p.resultado === "verde").length;
+  const units = done.reduce((a,p) => a + (p.resultado === "verde" ? (p.cuota - 1) * (p.stake_u||1) : -(p.stake_u||1)), 0);
+  const staked = done.reduce((a,p) => a + (p.stake_u||1), 0);
+  const roi = staked ? (units / staked * 100) : null;
+  const avg = picks.length ? picks.reduce((a,p) => a + p.cuota, 0) / picks.length : null;
+
+  document.getElementById("s-picks").textContent = picks.length;
+  const uEl = document.getElementById("s-units");
+  uEl.textContent = (units >= 0 ? "+" : "") + units.toFixed(1) + "u";
+  uEl.className = "v " + (units > 0 ? "pos" : units < 0 ? "neg" : "");
+  document.getElementById("s-roi").textContent = roi === null ? "—" : roi.toFixed(1) + "%";
+  document.getElementById("s-avg").textContent = avg === null ? "—" : avg.toFixed(2);
+  document.getElementById("s-streak").textContent = picks.length ? wins + "V-" + (done.length - wins) + "R" : "—";
+
+  const w = document.getElementById("table-wrap");
+  if (!picks.length){
+    w.innerHTML = '<div class="empty">Aún no hay picks registrados.<br>El registro empieza con el primer pick publicado, delante de ti.</div>';
+  } else {
+    let h = '<table><thead><tr><th>Fecha</th><th>Partido</th><th>Pick</th><th>Cuota</th><th>Resultado</th><th>±u</th><th>Prueba</th></tr></thead><tbody>';
+    for (const p of picks){
+      const rc = p.resultado === "verde" ? "res-win" : p.resultado === "rojo" ? "res-loss" : "res-pend";
+      const rl = p.resultado === "verde" ? "✅ Verde" : p.resultado === "rojo" ? "❌ Rojo" : "⏳ Pendiente";
+      const u = p.resultado === "verde" ? "+" + ((p.cuota-1)*(p.stake_u||1)).toFixed(1) + "u"
+              : p.resultado === "rojo" ? "−" + (p.stake_u||1).toFixed(1) + "u" : "—";
+      const uc = p.resultado === "verde" ? "u-pos" : p.resultado === "rojo" ? "u-neg" : "";
+      h += `<tr><td>${esc(p.fecha_partido)}</td><td>${esc(p.partido)}</td><td>${esc(p.pick)}</td><td>${p.cuota.toFixed(2)}</td><td class="${rc}">${rl}</td><td class="${uc}">${u}</td><td><a href="${REPO}/commits/main/${esc(p.archivo)}" target="_blank" rel="noopener">ver</a></td></tr>`;
+    }
+    w.innerHTML = h + "</tbody></table>";
+  }
+  document.getElementById("updated").textContent = data && data.updated ? "Actualizado: " + data.updated : "";
+}
+
+fetch(JSON_URL).then(r => r.json()).then(render).catch(() => {
+  document.getElementById("table-wrap").innerHTML = '<div class="empty">No se pudo cargar el registro.<br><a href="' + REPO + '">Ábrelo directamente en GitHub</a>.</div>';
+});
+</script>
+</body>
+</html>
