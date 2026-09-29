@@ -18,6 +18,6 @@ nosotros podamos reescribir el pasado sin dejar huella.
 - Pulsa **History**: verás el commit original con su fecha, anterior al partido.
 - Compara con la fila correspondiente en la página pública.
 
-Página pública: https://muse.ai/s/historial-de-picks-la-madriguera-xvxd627x0xrxfextxz
+Página pública: https://lamadrigueratips.github.io/historial-picks-la-madriguera/
 
 +18 · Juego responsable
