@@ -9,4 +9,5 @@
 - **Registrado antes del partido:** 2026-10-01
 
 ## Resultado
-Pendiente. Se añadirá tras el partido en un commit nuevo, sin tocar lo registrado.
+
+**Rojo.** Marcador final: Grecia 2-2 Países Bajos (2-0 al descanso; goles neerlandeses de Van Dijk y Dumfries en la segunda parte). Resultado añadido el 2026-10-01 en un commit posterior al partido, sin modificar el registro previo.
