@@ -9,4 +9,4 @@
 - **Registrado antes del partido:** 2026-09-30
 
 ## Resultado
-Pendiente.
+❌ Rojo. Atlético Nacional 3-1 Junior (2026-10-01). −1u.
