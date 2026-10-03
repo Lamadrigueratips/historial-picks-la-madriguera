@@ -11,4 +11,4 @@
 
 ## Resultado
 
-Pendiente. Se añadirá tras el partido sin modificar el registro previo.
+**Verde.** Marcador final: Albacete 1-3 Eibar (1-0 al descanso; remontada armera con 3 goles en la segunda parte). Pick DNB: victoria del Eibar, se cobra la cuota 1.83. Resultado añadido el 2026-10-03 en un commit posterior al partido, sin modificar el registro previo.
