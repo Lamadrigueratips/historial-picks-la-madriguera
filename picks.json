@@ -24,7 +24,19 @@
       "archivo": "picks/2026-10-01-grecia-vs-paises-bajos-gana-paises-bajos.md",
       "publicado_en": null,
       "reto_10k": "Paso 1/10"
+    },
+    {
+      "fecha_partido": "2026-10-03",
+      "partido": "Albacete vs Eibar",
+      "pick": "Eibar, empate no válido (DNB)",
+      "cuota": 1.83,
+      "casa": "bet365",
+      "stake_u": 1,
+      "resultado": "pendiente",
+      "marcador": null,
+      "archivo": "picks/2026-10-03-albacete-vs-eibar-empate-no-valido.md",
+      "publicado_en": null
     }
   ],
-  "updated": "2026-10-01"
+  "updated": "2026-10-03"
 }
