@@ -7,7 +7,7 @@
 - **Stake:** 1 unidad
 - **Premisa:** El Eibar sale con su once de gala y el Albacete mantiene la defensa improvisada (Neva de central). Se rompe si hay rotaciones raras en el Eibar o Vallejo rinde de inicio como central.
 - **Registrado antes del partido:** 2026-10-03
-- **Publicado en:** https://www.instagram.com/p/DeB6Xo2CZjo/ (carrusel Instagram, 7 slides)
+- **Publicado en:** https://www.instagram.com/p/DeB66h4Cc0m/ (carrusel Instagram, 7 slides)
 
 ## Resultado
 
