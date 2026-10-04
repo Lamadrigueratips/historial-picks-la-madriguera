@@ -11,4 +11,4 @@
 
 ## Resultado
 
-Pendiente. Se añadirá tras el partido en un commit posterior, sin modificar el registro previo.
+**Verde.** Marcador final: Real Zaragoza 4-1 CD Teruel. Victoria local y 5 goles en el partido: entran las dos patas de la combinada (Zaragoza gana + más de 1.5 goles @1.66, +0.66u). Resultado añadido el 2026-10-04 en un commit posterior al partido, sin modificar el registro previo.
