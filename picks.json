@@ -36,7 +36,19 @@
       "marcador": "Albacete 1-3 Eibar",
       "archivo": "picks/2026-10-03-albacete-vs-eibar-empate-no-valido.md",
       "publicado_en": "https://www.instagram.com/p/DeB66h4Cc0m/"
+    },
+    {
+      "fecha_partido": "2026-10-04",
+      "partido": "Real Zaragoza vs CD Teruel",
+      "pick": "Victoria del Real Zaragoza + Más de 1.5 goles",
+      "cuota": 1.66,
+      "casa": "bet365",
+      "stake_u": 1,
+      "resultado": "pendiente",
+      "marcador": null,
+      "archivo": "picks/2026-10-04-real-zaragoza-vs-teruel-gana-y-over-1-5.md",
+      "publicado_en": null
     }
   ],
-  "updated": "2026-10-03"
+  "updated": "2026-10-04"
 }
