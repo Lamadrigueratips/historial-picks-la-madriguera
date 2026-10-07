@@ -48,7 +48,19 @@
       "marcador": "Real Zaragoza 4-1 CD Teruel",
       "archivo": "picks/2026-10-04-real-zaragoza-vs-teruel-gana-y-over-1-5.md",
       "publicado_en": null
+    },
+    {
+      "fecha_partido": "2026-10-08",
+      "partido": "Cruzeiro vs São Paulo",
+      "pick": "Victoria del Cruzeiro (1)",
+      "cuota": 1.7,
+      "casa": "William Hill",
+      "stake_u": 1,
+      "resultado": "pendiente",
+      "marcador": null,
+      "archivo": "picks/2026-10-08-cruzeiro-vs-sao-paulo-gana-cruzeiro.md",
+      "publicado_en": null
     }
   ],
-  "updated": "2026-10-04"
+  "updated": "2026-10-07"
 }
