@@ -60,7 +60,19 @@
       "marcador": "Cruzeiro 2-0 São Paulo",
       "archivo": "picks/2026-10-08-cruzeiro-vs-sao-paulo-gana-cruzeiro.md",
       "publicado_en": null
+    },
+    {
+      "fecha_partido": "2026-10-09",
+      "partido": "West Ham United vs Queens Park Rangers",
+      "pick": "Victoria del West Ham + Más de 1.5 goles",
+      "cuota": 1.65,
+      "casa": "William Hill",
+      "stake_u": 1,
+      "resultado": "pendiente",
+      "marcador": null,
+      "archivo": "picks/2026-10-09-west-ham-vs-qpr-west-ham-y-mas-1-5-goles.md",
+      "publicado_en": null
     }
   ],
-  "updated": "2026-10-08"
+  "updated": "2026-10-09"
 }
