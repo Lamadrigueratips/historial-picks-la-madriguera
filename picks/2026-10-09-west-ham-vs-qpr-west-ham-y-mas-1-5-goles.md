@@ -11,4 +11,4 @@
 
 ## Resultado
 
-Pendiente.
+**Rojo.** Marcador final: West Ham United 1-1 Queens Park Rangers (descanso 0-1). El West Ham no ganó —falló un penalti en el minuto 90—: no entra el pick (West Ham + over 1.5 @1.65, -1u). Resultado añadido el 2026-10-09 en un commit posterior al partido, sin modificar el registro previo.
