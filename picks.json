@@ -92,9 +92,10 @@
       "cuota": 1.71,
       "casa": "bet365",
       "stake_u": 1,
-      "resultado": "pendiente",
+      "resultado": "verde",
       "archivo": "picks/2026-10-10-mansfield-town-vs-bromley-gana-mansfield.md",
-      "publicado_en": null
+      "publicado_en": null,
+      "marcador": "Mansfield Town 2-1 Bromley"
     }
   ],
   "updated": "2026-10-10"
