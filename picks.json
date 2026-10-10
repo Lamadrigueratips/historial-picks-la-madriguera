@@ -96,7 +96,29 @@
       "archivo": "picks/2026-10-10-mansfield-town-vs-bromley-gana-mansfield.md",
       "publicado_en": null,
       "marcador": "Mansfield Town 2-1 Bromley"
+    },
+    {
+      "fecha_partido": "2026-10-11",
+      "partido": "Cherno More Varna vs Levski Sofia",
+      "pick": "Victoria del Levski Sofia",
+      "cuota": 1.61,
+      "casa": "bet365",
+      "stake_u": 1,
+      "resultado": "pendiente",
+      "archivo": "picks/2026-10-11-cherno-more-varna-vs-levski-sofia-gana-levski.md",
+      "publicado_en": null
+    },
+    {
+      "fecha_partido": "2026-10-11",
+      "partido": "Southampton vs Portsmouth",
+      "pick": "Victoria del Southampton + Más de 1.5 goles",
+      "cuota": 1.8,
+      "casa": "bet365",
+      "stake_u": 1,
+      "resultado": "pendiente",
+      "archivo": "picks/2026-10-11-southampton-vs-portsmouth-southampton-y-mas-1-5-goles.md",
+      "publicado_en": null
     }
   ],
-  "updated": "2026-10-10"
+  "updated": "2026-10-11"
 }
