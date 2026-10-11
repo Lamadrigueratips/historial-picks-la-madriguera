@@ -8,3 +8,7 @@
 - **Premisa:** El Levski, líder invicto en liga (8V 1E, 25 puntos), visita al Cherno More, penúltimo con 6 puntos en 10 jornadas y 1 sola victoria en sus últimos 10 partidos. H2H global: 41 victorias del Levski en 76 duelos. Contrapesos: el Levski lleva 25 días sin competir y puede salir con once renovado; en Ticha el Cherno More aguanta (3V 1E 1D en los últimos 5 duelos en Varna). Modelo: 66,2% victoria visitante.
 - **Banner:** https://raw.githubusercontent.com/Lamadrigueratips/historial-picks-la-madriguera/main/banners/2026-10-11-cherno-more-varna-vs-levski-sofia-gana-levski.png
 - **Registrado antes del partido:** 2026-10-11
+
+## Resultado
+
+**Verde.** Marcador final: Cherno More Varna 0-2 Levski Sofia (descanso 0-1). Victoria visitante: entra el pick (Levski @1.61, +0.61u). Resultado verificado en Sportradar y confirmado en directo, añadido el 2026-10-11 en un commit posterior al partido, sin modificar el registro previo.
