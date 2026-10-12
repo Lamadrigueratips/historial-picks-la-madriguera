@@ -141,6 +141,16 @@
             "resultado": "pendiente",
             "archivo": "picks/2026-10-13-hansa-rostock-vs-sv-meppen.md",
             "publicado_en": null
+        },
+        {
+            "fecha_partido": "2026-10-13",
+            "partido": "Doble: Bucaramanga vs Águilas Doradas + Havelse vs Würzburger Kickers",
+            "pick": "Bucaramanga gana cualquier mitad + Más de 1.5 goles en Havelse vs Würzburger",
+            "cuota": 1.83,
+            "stake_u": 1,
+            "resultado": "pendiente",
+            "archivo": "picks/2026-10-13-doble-bucaramanga-havelse.md",
+            "publicado_en": null
         }
     ],
     "updated": "2026-10-12"
