@@ -138,9 +138,10 @@
             "pick": "Victoria del Hansa Rostock + Más de 1.5 goles",
             "cuota": 1.83,
             "stake_u": 1,
-            "resultado": "pendiente",
+            "resultado": "rojo",
             "archivo": "picks/2026-10-13-hansa-rostock-vs-sv-meppen.md",
-            "publicado_en": null
+            "publicado_en": null,
+            "marcador": "Hansa Rostock 0-2 SV Meppen"
         },
         {
             "fecha_partido": "2026-10-13",
@@ -153,5 +154,5 @@
             "publicado_en": null
         }
     ],
-    "updated": "2026-10-12"
+    "updated": "2026-10-13"
 }
