@@ -160,9 +160,10 @@
             "pick": "Victoria del Viktoria Köln + Más de 1.5 goles",
             "cuota": 1.72,
             "stake_u": 1,
-            "resultado": "pendiente",
+            "resultado": "verde",
             "archivo": "picks/2026-10-14-viktoria-koln-vs-sonnenhof-grossaspach.md",
-            "publicado_en": null
+            "publicado_en": null,
+            "marcador": "FC Viktoria Köln 2-2 SG Sonnenhof Großaspach"
         }
     ],
     "updated": "2026-10-14"
