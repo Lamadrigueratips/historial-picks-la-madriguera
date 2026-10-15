@@ -185,6 +185,16 @@
       "resultado": "pendiente",
       "archivo": "picks/2026-10-16-persijap-vs-isenmulang-kalteng.md",
       "publicado_en": null
+    },
+    {
+      "fecha_partido": "2026-10-16",
+      "partido": "Çorum FK vs Çaykur Rizespor",
+      "pick": "Çorum FK gana cualquier mitad + Más de 1 gol",
+      "cuota": 1.75,
+      "stake_u": 1,
+      "resultado": "pendiente",
+      "archivo": "picks/2026-10-16-corum-vs-caykur-rizespor.md",
+      "publicado_en": null
     }
   ],
   "updated": "2026-10-15"
