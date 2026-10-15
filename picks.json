@@ -175,6 +175,16 @@
       "archivo": "picks/2026-10-15-salzburg-vs-ac-milan.md",
       "publicado_en": null,
       "marcador": "FC Salzburg 0-2 AC Milan (al descanso; sentenciado)"
+    },
+    {
+      "fecha_partido": "2026-10-16",
+      "partido": "Persijap Jepara vs Isenmulang Kalteng FC",
+      "pick": "Persijap Jepara gana (resultado final)",
+      "cuota": 1.75,
+      "stake_u": 1,
+      "resultado": "pendiente",
+      "archivo": "picks/2026-10-16-persijap-vs-isenmulang-kalteng.md",
+      "publicado_en": null
     }
   ],
   "updated": "2026-10-15"
