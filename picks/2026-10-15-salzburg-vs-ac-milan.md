@@ -13,4 +13,4 @@
 
 ## Resultado
 
-**Verde (+0.75u).** Sellado al descanso con Salzburg 0-2 AC Milan (verificado en Sportradar y en el parte en directo de Miguel): el Milan ganó la primera mitad 0-2 y ya había 2 goles en el partido, por lo que ambas patas (Milan gana cualquier mitad + over 1.0) quedaron matemáticamente sentenciadas antes del final. Marcador final pendiente de añadir. Sellado el 2026-10-15 a petición de Miguel en un commit posterior al registro previo, sin modificarlo.
+**Verde (+0.75u).** Sellado al descanso con Salzburg 0-2 AC Milan (verificado en Sportradar y en el parte en directo de Miguel): el Milan ganó la primera mitad 0-2 y ya había 2 goles en el partido, por lo que ambas patas (Milan gana cualquier mitad + over 1.0) quedaron matemáticamente sentenciadas antes del final. Marcador final: Salzburg 0-4 AC Milan (verificado en sportradar.com y flashscore.com; goles: Cisse 15', 32' y 49' —hat-trick—, y Ramos). Sellado el 2026-10-15 a petición de Miguel en un commit posterior al registro previo, sin modificarlo.
