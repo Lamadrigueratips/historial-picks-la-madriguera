@@ -171,10 +171,11 @@
       "pick": "AC Milan gana cualquier mitad + Más de 1 gol",
       "cuota": 1.75,
       "stake_u": 1,
-      "resultado": "pendiente",
+      "resultado": "verde",
       "archivo": "picks/2026-10-15-salzburg-vs-ac-milan.md",
-      "publicado_en": null
+      "publicado_en": null,
+      "marcador": "FC Salzburg 0-2 AC Milan (al descanso; sentenciado)"
     }
   ],
-  "updated": "2026-10-14"
+  "updated": "2026-10-15"
 }
