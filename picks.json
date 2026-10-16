@@ -193,9 +193,10 @@
             "pick": "Çorum FK gana cualquier mitad + Más de 1 gol",
             "cuota": 1.75,
             "stake_u": 1,
-            "resultado": "pendiente",
+            "resultado": "verde",
             "archivo": "picks/2026-10-16-corum-vs-caykur-rizespor.md",
-            "publicado_en": null
+            "publicado_en": null,
+            "marcador": "Çorum FK 2-1 Çaykur Rizespor"
         }
     ],
     "updated": "2026-10-16"
