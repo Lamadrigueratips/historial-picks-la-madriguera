@@ -7,9 +7,10 @@
 - **Stake:** 1 unidad
 - **Premisa:** El Rizespor ha perdido al menos una mitad en 5 de 7 partidos; el Çorum firma over 1.5 en 7/7 y Burak Yılmaz se estrena en su banquillo. Baja confirmada: Alikulov (Rizespor, ligamento cruzado); vuelve Mihaila tras sanción. Primer duelo oficial de la historia; ambos empatados a 10 puntos.
 - **Banner:** https://raw.githubusercontent.com/Lamadrigueratips/historial-picks-la-madriguera/main/banners/2026-10-16-doble-corum-rizespor.png
+- **Banner resultado:** https://raw.githubusercontent.com/Lamadrigueratips/historial-picks-la-madriguera/main/banners/banner-pick17-ganado.png
 - **Publicado en:** pendiente de publicación por Miguel (Threads/Telegram)
 - **Registrado en GitHub:** 2026-10-15 (~23:05 CEST), antes del partido
 
 ## Resultado
 
-**Pendiente.** Se añadirá tras el partido en un commit posterior, sin modificar el registro previo.
+**Verde (+0,75u).** Resultado deportivo: Çorum FK 2-1 Çaykur Rizespor, 16-10-2026, Çorum Şehir Stadyumu (descanso 1-1, segunda parte 1-0). El pick era «Çorum FK gana cualquier mitad + Más de 1 gol» @1.75: el Çorum ganó la segunda mitad 1-0 y el partido tuvo 3 goles. Resultado verificado en dos fuentes (sportradar.com y sportsmole.co.uk) y añadido el 2026-10-16 en un commit posterior al partido, sin modificar el registro previo.
