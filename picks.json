@@ -219,6 +219,17 @@
       "archivo": "picks/2026-10-17-amed-vs-konyaspor.md",
       "publicado_en": null,
       "marcador": "Amed 1-0 (2ª mitad ganada ✓ · over 1.5 ✗)"
+    },
+    {
+      "id": 20,
+      "fecha": "2026-10-17",
+      "partido": "Troyes vs Lens",
+      "competicion": "Ligue 1",
+      "pick": "Lens gana + Más de 1.5 goles",
+      "cuota": 2.1,
+      "stake_u": 1,
+      "resultado": "pendiente",
+      "archivo": "picks/2026-10-17-troyes-vs-lens.md"
     }
   ],
   "updated": "2026-10-17"
