@@ -204,9 +204,10 @@
       "pick": "Doble: Benevento gana una mitad + AaB-Vejle más de 1.5 goles",
       "cuota": 1.78,
       "stake_u": 1,
-      "resultado": "pendiente",
+      "resultado": "rojo",
       "archivo": "picks/2026-10-17-benevento-aab-doble.md",
-      "publicado_en": null
+      "publicado_en": null,
+      "marcador": "Benevento 1ª mitad 2-0 ✓ · AaB 0-1 Vejle"
     },
     {
       "fecha_partido": "2026-10-17",
