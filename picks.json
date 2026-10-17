@@ -215,9 +215,10 @@
       "pick": "Amed SK gana cualquier mitad + Más de 1.5 goles",
       "cuota": 1.75,
       "stake_u": 1,
-      "resultado": "pendiente",
+      "resultado": "rojo",
       "archivo": "picks/2026-10-17-amed-vs-konyaspor.md",
-      "publicado_en": null
+      "publicado_en": null,
+      "marcador": "Amed 1-0 (2ª mitad ganada ✓ · over 1.5 ✗)"
     }
   ],
   "updated": "2026-10-17"
