@@ -255,6 +255,30 @@
       "archivo": "picks/2026-10-18-hammarby-molde-doble.md",
       "marcador": "Halmstad 0-1 Hammarby (ganó ✓ · 2+ goles ✗) · Molde 6-1 IK Start ✓",
       "fecha_partido": "2026-10-18"
+    },
+    {
+      "id": 23,
+      "fecha_partido": "2026-10-19",
+      "partido": "FC Kharkiv vs FC Livyi Bereh",
+      "competicion": "Premier League Ucrania",
+      "pick": "FC Kharkiv gana + Más de 1.5 goles",
+      "cuota": 1.83,
+      "stake_u": 1,
+      "resultado": "pendiente",
+      "archivo": "picks/2026-10-19-kharkiv-vs-livyi-bereh.md",
+      "marcador": ""
+    },
+    {
+      "id": 24,
+      "fecha_partido": "2026-10-19",
+      "partido": "El Masry vs Abu Qair Semad",
+      "competicion": "Premier League Egipto",
+      "pick": "El Masry gana + Más de 1.5 goles",
+      "cuota": 1.95,
+      "stake_u": 1,
+      "resultado": "pendiente",
+      "archivo": "picks/2026-10-19-el-masry-vs-abu-qair.md",
+      "marcador": ""
     }
   ],
   "updated": "2026-10-19"
