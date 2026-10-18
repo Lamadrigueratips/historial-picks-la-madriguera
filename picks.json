@@ -242,6 +242,17 @@
       "stake_u": 1,
       "resultado": "pendiente",
       "archivo": "picks/2026-10-18-seoul-eland-vs-gimhae.md"
+    },
+    {
+      "id": 22,
+      "fecha": "2026-10-18",
+      "partido": "Halmstad vs Hammarby + Molde vs IK Start",
+      "competicion": "Allsvenskan + Eliteserien",
+      "pick": "Doble: Hammarby gana + marca 2+ (@1.35) y Molde gana (@1.33)",
+      "cuota": 1.8,
+      "stake_u": 1,
+      "resultado": "pendiente",
+      "archivo": "picks/2026-10-18-hammarby-molde-doble.md"
     }
   ],
   "updated": "2026-10-18"
