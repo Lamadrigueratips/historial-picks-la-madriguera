@@ -252,8 +252,9 @@
       "pick": "Doble: Hammarby gana + marca 2+ (@1.35) y Molde gana (@1.33)",
       "cuota": 1.8,
       "stake_u": 1,
-      "resultado": "pendiente",
-      "archivo": "picks/2026-10-18-hammarby-molde-doble.md"
+      "resultado": "rojo",
+      "archivo": "picks/2026-10-18-hammarby-molde-doble.md",
+      "marcador": "Halmstad 0-1 Hammarby (ganó ✓ · 2+ goles ✗) · Molde 6-1 IK Start ✓"
     }
   ],
   "updated": "2026-10-18"
