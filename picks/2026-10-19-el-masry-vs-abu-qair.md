@@ -12,4 +12,6 @@ Pick registrado prepartido el 2026-10-19 (~01:35 CEST) con autorización expresa
 
 ## Resultado
 
-⏳ Pendiente.
+**Rojo (−1u).** Resultado deportivo 19-10-2026: El Masry 1-1 Abu Qair Semad (Premier League Egipto, New Suez Stadium). La pata «más de 1.5 goles» entró (2 goles en el partido) pero la pata «El Masry gana» falló (empate 1-1). La doble @1.95 no entra. Resultado comunicado por Miguel y añadido el 2026-10-19 en un commit posterior al partido, sin modificar el registro previo.
+
+- **Banner resultado:** https://raw.githubusercontent.com/Lamadrigueratips/historial-picks-la-madriguera/main/banners/banner-pick24-perdido.png
