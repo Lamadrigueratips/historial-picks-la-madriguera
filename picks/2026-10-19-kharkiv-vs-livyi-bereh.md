@@ -12,4 +12,6 @@ Pick registrado prepartido el 2026-10-19 (~01:35 CEST) con autorización expresa
 
 ## Resultado
 
-⏳ Pendiente.
+**Verde (+0.83u).** Resultado deportivo 19-10-2026: FC Kharkiv 2-1 FC Livyi Bereh (verificado en sportradar.com y theyscored.com). La pata «FC Kharkiv gana» entró (victoria 2-1) y la pata «más de 1.5 goles» entró (3 goles en el partido). La doble @1.83 suma +0.83u. Resultado añadido el 2026-10-19 en un commit posterior al partido, sin modificar el registro previo.
+
+- **Banner resultado:** https://raw.githubusercontent.com/Lamadrigueratips/historial-picks-la-madriguera/main/banners/banner-pick23-ganado.png
