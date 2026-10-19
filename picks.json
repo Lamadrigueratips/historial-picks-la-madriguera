@@ -279,6 +279,28 @@
       "resultado": "rojo",
       "archivo": "picks/2026-10-19-el-masry-vs-abu-qair.md",
       "marcador": "El Masry 1-1 Abu Qair Semad (victoria ✗ · over 1.5 ✓)"
+    },
+    {
+      "id": 25,
+      "fecha_partido": "2026-10-20",
+      "partido": "Al-Nassr Riyadh vs Neom SC",
+      "competicion": "Saudi Pro League",
+      "pick": "Al-Nassr gana + Más de 1.5 goles",
+      "cuota": 1.57,
+      "stake_u": 1,
+      "resultado": "pendiente",
+      "archivo": "picks/2026-10-20-al-nassr-vs-neom.md"
+    },
+    {
+      "id": 26,
+      "fecha_partido": "2026-10-20",
+      "partido": "Oxford United vs Wigan Athletic",
+      "competicion": "League One Inglaterra",
+      "pick": "Oxford gana + Más de 1.0 gol",
+      "cuota": 2.3,
+      "stake_u": 1,
+      "resultado": "pendiente",
+      "archivo": "picks/2026-10-20-oxford-vs-wigan.md"
     }
   ],
   "updated": "2026-10-19"
