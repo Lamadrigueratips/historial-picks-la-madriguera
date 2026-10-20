@@ -288,8 +288,9 @@
       "pick": "Al-Nassr gana + Más de 1.5 goles",
       "cuota": 1.57,
       "stake_u": 1,
-      "resultado": "pendiente",
-      "archivo": "picks/2026-10-20-al-nassr-vs-neom.md"
+      "resultado": "rojo",
+      "archivo": "picks/2026-10-20-al-nassr-vs-neom.md",
+      "marcador": "Al-Nassr Riyadh 1-0 Neom SC (victoria ✓ · over 1.5 ✗)"
     },
     {
       "id": 26,
@@ -303,5 +304,5 @@
       "archivo": "picks/2026-10-20-oxford-vs-wigan.md"
     }
   ],
-  "updated": "2026-10-19"
+  "updated": "2026-10-20"
 }
