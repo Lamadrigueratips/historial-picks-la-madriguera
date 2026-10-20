@@ -300,8 +300,9 @@
       "pick": "Oxford gana + Más de 1.0 gol",
       "cuota": 2.3,
       "stake_u": 1,
-      "resultado": "pendiente",
-      "archivo": "picks/2026-10-20-oxford-vs-wigan.md"
+      "resultado": "verde",
+      "archivo": "picks/2026-10-20-oxford-vs-wigan.md",
+      "marcador": "Oxford United 2-1 Wigan Athletic (victoria ✓ · más de 1.0 gol ✓)"
     }
   ],
   "updated": "2026-10-20"
