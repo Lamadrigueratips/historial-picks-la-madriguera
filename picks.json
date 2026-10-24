@@ -324,9 +324,9 @@
       "pick": "Pogoń gana + Más de 1.5 goles",
       "cuota": 2.05,
       "stake_u": 1,
-      "resultado": "pendiente",
+      "resultado": "verde",
       "archivo": "picks/2026-10-24-pogon-vs-radomiak.md",
-      "marcador": ""
+      "marcador": "Pogoń Szczecin 4-3 Radomiak Radom (Pogoń gana ✓ · más de 1.5 goles ✓)"
     },
     {
       "id": 29,
@@ -341,5 +341,5 @@
       "marcador": ""
     }
   ],
-  "updated": "2026-10-23"
+  "updated": "2026-10-24"
 }
