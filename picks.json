@@ -339,6 +339,42 @@
       "resultado": "rojo",
       "archivo": "picks/2026-10-24-westerlo-vs-beveren.md",
       "marcador": "KVC Westerlo 4-4 SK Beveren (Westerlo gana ✗ · más de 1.5 goles ✓)"
+    },
+    {
+      "id": 30,
+      "fecha_partido": "2026-10-25",
+      "partido": "Hellas Verona vs Pisa",
+      "competicion": "Serie B",
+      "pick": "Ambos equipos anotan",
+      "cuota": 1.66,
+      "stake_u": 1,
+      "resultado": "pendiente",
+      "archivo": "picks/2026-10-25-verona-vs-pisa.md",
+      "marcador": ""
+    },
+    {
+      "id": 31,
+      "fecha_partido": "2026-10-25",
+      "partido": "FK Haugesund vs IL Hødd",
+      "competicion": "OBOS-ligaen",
+      "pick": "Ambos equipos anotan + Más de 2.5 goles",
+      "cuota": 1.66,
+      "stake_u": 1,
+      "resultado": "pendiente",
+      "archivo": "picks/2026-10-25-haugesund-vs-hodd.md",
+      "marcador": ""
+    },
+    {
+      "id": 32,
+      "fecha_partido": "2026-10-25",
+      "partido": "Pendikspor vs Kayserispor",
+      "competicion": "TFF 1. Lig",
+      "pick": "Kayserispor gana + Más de 1.5 goles",
+      "cuota": 2.2,
+      "stake_u": 1,
+      "resultado": "pendiente",
+      "archivo": "picks/2026-10-25-pendikspor-vs-kayserispor.md",
+      "marcador": ""
     }
   ],
   "updated": "2026-10-24"
