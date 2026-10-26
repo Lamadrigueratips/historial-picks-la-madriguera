@@ -375,7 +375,19 @@
       "resultado": "rojo",
       "archivo": "picks/2026-10-25-pendikspor-vs-kayserispor.md",
       "marcador": "Pendikspor 2-2 Kayserispor (Kayserispor gana ✗ · más de 1.5 goles ✓)"
+    },
+    {
+      "id": 33,
+      "fecha_partido": "2026-10-26",
+      "partido": "Bhayangkara FC vs PSM Makassar / Örebro SK vs Falkenbergs FF",
+      "competicion": "Super League Indonesia / Superettan",
+      "pick": "Bhayangkara gana + Más de 1.5 goles en Örebro vs Falkenbergs",
+      "cuota": 1.89,
+      "stake_u": 1,
+      "resultado": "pendiente",
+      "archivo": "picks/2026-10-26-doble-bhayangkara-orebro.md",
+      "marcador": ""
     }
   ],
-  "updated": "2026-10-25"
+  "updated": "2026-10-26"
 }
