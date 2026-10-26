@@ -387,6 +387,18 @@
       "resultado": "rojo",
       "archivo": "picks/2026-10-26-doble-bhayangkara-orebro.md",
       "marcador": "Bhayangkara 0-0 PSM Makassar (Bhayangkara gana ✗) · Örebro 1-0 Falkenbergs (más de 1.5 goles ✗)"
+    },
+    {
+      "id": 34,
+      "fecha_partido": "2026-10-27",
+      "partido": "Ascoli vs Sampdoria",
+      "competicion": "Serie B",
+      "pick": "Ascoli gana (resultado final)",
+      "cuota": 2.05,
+      "stake_u": 1,
+      "resultado": "pendiente",
+      "archivo": "picks/2026-10-27-ascoli-vs-sampdoria.md",
+      "marcador": ""
     }
   ],
   "updated": "2026-10-26"
