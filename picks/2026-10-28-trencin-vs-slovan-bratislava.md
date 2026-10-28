@@ -5,8 +5,8 @@
 - **Pick:** Slovan Bratislava gana (resultado final) + Más de 1,5 goles
 - **Cuota:** 1,53
 - **Stake:** 1 unidad
-- **Estado:** Pendiente
-- **Resultado:** Pendiente. Se sellará tras el partido, sin editar este registro previo.
+- **Estado:** Sellado (verde)
+- **Resultado:** ✅ VERDE +0,53u @1,53 — AS Trencin 0-2 Slovan Bratislava (descanso 0-0, 2ª mitad 0-2; goles: P. Pokorny 53', A. Griger 62'), sellado el 28-10-2026 tras el partido, sin editar el registro previo. Fuentes: Sportradar (final 0-2, periodos 0-0 y 0-2) y Betora (0-2, Pokorny 53', Griger 62').
 
 ## Motivo (del dossier previo)
 
@@ -19,6 +19,7 @@
 ## Archivos
 
 - Banner: `banners/banner-pick35-trencin-vs-slovan-20261028.png`
+- Banner resultado: `banners/banner-pick35-trencin-ganado-20261028.png`
 - Registro: `picks.json`, Pick 35, resultado pendiente.
 - Dossier previo: página web entregada el 27-10-2026 (artefacto `dossier-previo-as-trencin-vs-slovan-bratislava`).
 
