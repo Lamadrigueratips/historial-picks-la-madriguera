@@ -3,14 +3,14 @@
 - **Fecha:** 2026-10-30 (hora de inicio sin confirmar con fuente oficial: consenso de prensa 13:30 CET frente a 14:45 CET en fichas antiguas)
 - **Sede y competición:** Prince Sultan bin Abdulaziz Sports City Stadium, Abha · Roshn Saudi League, jornada 12
 - **Pick:** Al-Ittihad Jeddah gana (resultado final) + Más de 1 gol
-- **Cuota:** 1,72 (Bet365, confirmada por Miguel)
+- **Cuota:** 1,72 (Bet365, confirmada prepartido)
 - **Stake:** 1 unidad
-- **Estado:** Pendiente
-- **Resultado:** Pendiente. Se sellará tras el partido, sin editar este registro previo.
+- **Estado:** Sellado (rojo)
+- **Resultado:** ROJO (−1,00u). Abha 1-1 Al-Ittihad Jeddah (descanso 0-0; goles: Aouar 52', Al-Subiani 87').
 
 ## Corrección prepartido (30-10-2026, antes del partido)
 
-La primera versión de este registro decía «Al-Ittihad Jeddah +1 (resultado final, hándicap)». Era una lectura errónea de la captura que pasó Miguel: la foto venía recortada y faltaban líneas de la combinada. El pick correcto, confirmado por Miguel, es «Al-Ittihad gana + Más de 1 gol» a la misma cuota 1,72. Se corrigen banner, ficha y picks.json antes del inicio; la versión anterior queda en el historial de commits.
+La primera versión de este registro decía «Al-Ittihad Jeddah +1 (resultado final, hándicap)». Era una lectura errónea de la captura recibida: la foto venía recortada y faltaban líneas de la combinada. El pick correcto, confirmado prepartido, es «Al-Ittihad gana + Más de 1 gol» a la misma cuota 1,72. Se corrigen banner, ficha y picks.json antes del inicio; la versión anterior queda en el historial de commits.
 
 ## Condición de acierto
 
@@ -34,3 +34,10 @@ Verde si el Al-Ittihad gana el partido y el total de goles es mayor de 1 (es dec
 ## Juego responsable
 
 Solo para mayores de 18 años. Las pérdidas del total de jugadores superan en 4 veces sus ganancias. Más información en juegoseguro.es.
+
+## Sellado (30-10-2026, tras el partido)
+
+- **Resultado final:** Abha 1-1 Al-Ittihad Jeddah (descanso 0-0). Goles: Houssem Aouar 52' (Al-Ittihad), Faisal Al-Subiani 87' (Abha). Verificado en dos fuentes independientes (SportScore y Betora).
+- **Veredicto:** ROJO, −1,00u. El Al-Ittihad no ganó, por lo que la combinada no entra aunque la pata de goles sí entró (2 goles en total).
+- **Balance tras el sellado:** 36 sellados, 20 verdes, 16 rojos, +0,03u.
+- **Banner resultado:** `banners/banner-pick36-abha-perdido-20261030.png` (el banner prepartido no se modifica).
