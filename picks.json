@@ -411,7 +411,19 @@
       "resultado": "verde",
       "archivo": "picks/2026-10-28-trencin-vs-slovan-bratislava.md",
       "marcador": "AS Trencin 0-2 Slovan Bratislava (Slovan gana ✓ + más de 1,5 goles ✓)"
+    },
+    {
+      "id": 36,
+      "fecha_partido": "2026-10-30",
+      "partido": "Abha vs Al-Ittihad Jeddah",
+      "competicion": "Roshn Saudi League",
+      "pick": "Al-Ittihad Jeddah +1 (resultado final, hándicap)",
+      "cuota": 1.72,
+      "stake_u": 1,
+      "resultado": "pendiente",
+      "archivo": "picks/2026-10-30-abha-vs-al-ittihad-jeddah.md",
+      "marcador": ""
     }
   ],
-  "updated": "2026-10-28"
+  "updated": "2026-10-30"
 }
