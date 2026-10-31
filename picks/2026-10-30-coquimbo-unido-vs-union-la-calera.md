@@ -5,8 +5,8 @@
 - **Pick:** Coquimbo Unido gana (resultado final) + Más de 1,5 goles
 - **Cuota:** 2,00 (según captura)
 - **Stake:** 1 unidad
-- **Estado:** Pendiente
-- **Resultado:** Pendiente. Se sellará tras el partido, sin editar este registro previo.
+- **Estado:** Sellado (rojo)
+- **Resultado:** ROJO (−1,00u). Coquimbo Unido 1-0 Unión La Calera (descanso 0-0; gol: Luis Riveros 62').
 
 ## Registro previo
 
@@ -27,3 +27,10 @@ ninguna estadística para justificarlo.
 ## Juego responsable
 
 Solo para mayores de 18 años. Las pérdidas del total de jugadores superan en 4 veces sus ganancias. Más información en juegoseguro.es.
+
+## Sellado (31-10-2026, tras el partido)
+
+- **Resultado final:** Coquimbo Unido 1-0 Unión La Calera (descanso 0-0). Gol: Luis Riveros 62'. Verificado en dos fuentes independientes (Sportradar y RedGol; PrensaFútbol corrobora la victoria y el gol).
+- **Veredicto:** ROJO, −1,00u. Coquimbo Unido ganó, por lo que la primera pata entró, pero solo hubo 1 gol en total y la pata de más de 1,5 goles no entró.
+- **Balance tras el sellado:** 37 sellados, 20 verdes, 17 rojos, −0,97u.
+- **Banner resultado:** `banners/banner-pick37-coquimbo-perdido-20261031.png` (el banner prepartido no se modifica).
