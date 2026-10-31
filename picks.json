@@ -435,6 +435,18 @@
       "resultado": "rojo",
       "archivo": "picks/2026-10-30-coquimbo-unido-vs-union-la-calera.md",
       "marcador": "Coquimbo Unido 1-0 Unión La Calera (Coquimbo gana ✓ + más de 1,5 goles ✗)"
+    },
+    {
+      "id": 38,
+      "fecha_partido": "2026-10-31",
+      "partido": "IFK Norrköping vs Östersunds FK",
+      "competicion": "Superettan, jornada 29",
+      "pick": "IFK Norrköping gana (resultado final)",
+      "cuota": 2.25,
+      "stake_u": 1,
+      "resultado": "pendiente",
+      "archivo": "picks/2026-10-31-ifk-norrkoping-vs-ostersunds-fk.md",
+      "marcador": ""
     }
   ],
   "updated": "2026-10-31"
