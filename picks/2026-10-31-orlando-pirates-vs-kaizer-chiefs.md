@@ -5,8 +5,8 @@
 - **Pick:** Orlando Pirates gana (resultado final)
 - **Cuota:** 1.67 (William Hill, según captura)
 - **Stake:** 1 unidad
-- **Estado:** Pendiente
-- **Resultado:** Pendiente. Se sellará tras el partido, sin editar este registro previo.
+- **Estado:** Sellado (verde)
+- **Resultado:** VERDE (+0,67u). Orlando Pirates 2-1 Kaizer Chiefs (goles: Yanela Mbuthuma 24', Pule Mmodi 30', Tshepang Moremi 55').
 
 ## Registro previo
 
@@ -30,3 +30,11 @@ En el caso de Pirates, además, la condición de pago anticipado de William Hill
 ## Juego responsable
 
 Solo para mayores de 18 años. Las pérdidas del total de jugadores superan en 4 veces sus ganancias Más información en juegoseguro.es.
+
+## Sellado (31-10-2026, tras el partido)
+
+- **Resultado final:** Orlando Pirates 2-1 Kaizer Chiefs. Goles: Yanela Mbuthuma 24' (1-0), Pule Mmodi 30' (1-1), Tshepang Moremi 55' (2-1). Verificado en dos fuentes independientes (Sportradar e iDiski Times).
+- **Pago anticipado:** NO se activó. La secuencia del partido fue 1-0, 1-1, 2-1: Pirates nunca llegó a ir 2-0 en ningún momento, por lo que la condición de pago anticipado de William Hill indicada por el titular no llegó a aplicarse.
+- **Veredicto:** VERDE, +0,67u. Pirates ganó el partido, por lo que la victoria simple @1,67 entra con 1 unidad, por el resultado final.
+- **Balance tras el sellado:** 39 sellados, 22 verdes, 17 rojos, +0,95u.
+- **Banner resultado:** `banners/banner-pick39-pirates-ganado-20261031.png` (el banner prepartido no se modifica).
