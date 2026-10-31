@@ -5,8 +5,8 @@
 - **Pick:** Standard de Lieja gana (resultado final)
 - **Cuota:** 1.66 (Bet365, según captura)
 - **Stake:** 1 unidad
-- **Estado:** Pendiente
-- **Resultado:** Pendiente. Se sellará tras el partido, sin editar este registro previo.
+- **Estado:** Sellado (rojo)
+- **Resultado:** ROJO (−1,00u). Standard de Lieja 1-1 KV Kortrijk (goles: Goduine Koyalipou 45+1' de penalti, Salieu Drammeh 63').
 
 ## Registro previo
 
@@ -30,3 +30,10 @@ En el caso de Pirates, además, la condición de pago anticipado de William Hill
 ## Juego responsable
 
 Solo para mayores de 18 años. La ludopatía es un riesgo del juego Más información en juegoseguro.es.
+
+## Sellado (31-10-2026, tras el partido)
+
+- **Resultado final:** Standard de Lieja 1-1 KV Kortrijk. Goles: Goduine Koyalipou 45+1' de penalti (0-1), Salieu Drammeh 63' (1-1). Verificado en dos fuentes independientes (Sportradar y Footlive; Sports Mole coincide con el 1-1 final).
+- **Veredicto:** ROJO, −1,00u. El pick era la victoria simple del Standard @1,66 y el partido terminó en empate, por lo que la victoria no entra.
+- **Balance tras el sellado:** 40 sellados, 22 verdes, 18 rojos, −0,05u.
+- **Banner resultado:** `banners/banner-pick40-standard-perdido-20261031.png` (el banner prepartido no se modifica).
