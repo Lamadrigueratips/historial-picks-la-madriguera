@@ -459,6 +459,18 @@
       "resultado": "pendiente",
       "archivo": "picks/2026-10-31-orlando-pirates-vs-kaizer-chiefs.md",
       "marcador": ""
+    },
+    {
+      "id": 40,
+      "fecha_partido": "2026-10-31",
+      "partido": "Standard de Lieja vs KV Kortrijk",
+      "competicion": "Jupiler Pro League, jornada 10",
+      "pick": "Standard de Lieja gana (resultado final)",
+      "cuota": 1.66,
+      "stake_u": 1,
+      "resultado": "pendiente",
+      "archivo": "picks/2026-10-31-standard-de-lieja-vs-kv-kortrijk.md",
+      "marcador": ""
     }
   ],
   "updated": "2026-10-31"
