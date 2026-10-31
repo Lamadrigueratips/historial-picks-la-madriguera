@@ -5,8 +5,8 @@
 - **Pick:** IFK Norrköping gana (resultado final)
 - **Cuota:** 2.25 (Bet365, según captura)
 - **Stake:** 1 unidad
-- **Estado:** Pendiente
-- **Resultado:** Pendiente. Se sellará tras el partido, sin editar este registro previo.
+- **Estado:** Sellado (verde)
+- **Resultado:** VERDE (+1,25u). IFK Norrköping 3-0 Östersunds FK (goles: Ryan Lee Nelson 26', Albert Aleksanjan 48', Moutaz Neffati 66').
 
 ## Registro previo
 
@@ -30,3 +30,10 @@ En el caso de Pirates, además, la condición de pago anticipado de William Hill
 ## Juego responsable
 
 Solo para mayores de 18 años. La probabilidad de ser un jugador que pierde dinero es del 75 % Más información en juegoseguro.es.
+
+## Sellado (31-10-2026, tras el partido)
+
+- **Resultado final:** IFK Norrköping 3-0 Östersunds FK. Goles: Ryan Lee Nelson 26', Albert Aleksanjan 48', Moutaz Neffati 66'. Verificado en dos fuentes independientes (Sportradar y Tips.GG).
+- **Veredicto:** VERDE, +1,25u. Norrköping ganó el partido, por lo que la victoria simple @2,25 entra con 1 unidad.
+- **Balance tras el sellado:** 38 sellados, 21 verdes, 17 rojos, +0,28u.
+- **Banner resultado:** `banners/banner-pick38-norrkoping-ganado-20261031.png` (el banner prepartido no se modifica).
