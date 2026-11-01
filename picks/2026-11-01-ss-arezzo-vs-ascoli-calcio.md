@@ -5,8 +5,8 @@
 - **Pick:** Ascoli gana (resultado final)
 - **Cuota:** 2.05 (según captura; casa no visible en la captura)
 - **Stake:** 1 unidad
-- **Estado:** Pendiente
-- **Resultado:** Pendiente. Se sellará tras el partido, sin editar este registro previo.
+- **Estado:** Sellado (rojo)
+- **Resultado:** ROJO (−1,00u). SS Arezzo 0-0 Ascoli Calcio 1898 (sin goles).
 
 ## Registro previo
 
@@ -27,3 +27,10 @@ Mercado confirmado en chat antes del registro: victoria simple del equipo indica
 ## Juego responsable
 
 Solo para mayores de 18 años. La probabilidad de ser un jugador que pierde dinero es del 75 % Más información en juegoseguro.es.
+
+## Sellado (01-11-2026, tras el partido)
+
+- **Resultado final:** SS Arezzo 0-0 Ascoli Calcio 1898. Sin goles. Verificado en tres fuentes independientes (Sportradar, Scorebat y Sports Mole).
+- **Veredicto:** ROJO, −1,00u. El pick era la victoria simple del Ascoli @2,05 y el partido terminó en empate, por lo que la victoria no entra.
+- **Balance tras el sellado:** 41 sellados, 22 verdes, 19 rojos, −1,05u.
+- **Banner resultado:** `banners/banner-pick41-arezzo-perdido-20261101.png` (el banner prepartido no se modifica).
