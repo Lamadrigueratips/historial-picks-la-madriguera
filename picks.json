@@ -471,7 +471,19 @@
       "resultado": "rojo",
       "archivo": "picks/2026-10-31-standard-de-lieja-vs-kv-kortrijk.md",
       "marcador": "Standard de Lieja 1-1 KV Kortrijk (empate, Standard no gana ✗)"
+    },
+    {
+      "id": 41,
+      "fecha_partido": "2026-11-01",
+      "partido": "SS Arezzo vs Ascoli Calcio 1898",
+      "competicion": "Serie B, jornada 10",
+      "pick": "Ascoli gana (resultado final)",
+      "cuota": 2.05,
+      "stake_u": 1,
+      "resultado": "pendiente",
+      "archivo": "picks/2026-11-01-ss-arezzo-vs-ascoli-calcio.md",
+      "marcador": ""
     }
   ],
-  "updated": "2026-10-31"
+  "updated": "2026-11-01"
 }
