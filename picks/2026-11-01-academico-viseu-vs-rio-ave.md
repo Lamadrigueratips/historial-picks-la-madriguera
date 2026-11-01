@@ -5,8 +5,8 @@
 - **Pick:** Académico Viseu gana (resultado final)
 - **Cuota:** 1.81 (según captura; casa no visible en la captura)
 - **Stake:** 1 unidad
-- **Estado:** Pendiente
-- **Resultado:** Pendiente. Se sellará tras el partido, sin editar este registro previo.
+- **Estado:** Sellado (verde)
+- **Resultado:** VERDE (+0,81u). Académico Viseu 2-1 Rio Ave (goles: Patrício 38', Messeguem 69', André Clóvis 77').
 
 ## Registro previo
 
@@ -27,3 +27,10 @@ Mercado confirmado en chat antes del registro: victoria simple del equipo indica
 ## Juego responsable
 
 Solo para mayores de 18 años. Las pérdidas del total de jugadores superan en 4 veces sus ganancias Más información en juegoseguro.es.
+
+## Sellado (01-11-2026, tras el partido)
+
+- **Resultado final:** Académico Viseu 2-1 Rio Ave. Goles: Miguel Patrício 38' (0-1), Soufiane Messeguem 69' (1-1), André Clóvis 77' (2-1). Verificado en tres fuentes independientes (Kicker, Mediotiempo y Sports Mole).
+- **Veredicto:** VERDE, +0,81u. El pick era la victoria simple del Viseu @1,81 y el Viseu remontó para ganar el partido.
+- **Balance tras el sellado:** 42 sellados, 23 verdes, 19 rojos, −0,24u.
+- **Banner resultado:** `banners/banner-pick42-academico-viseu-ganado-20261101.png` (el banner prepartido no se modifica).
