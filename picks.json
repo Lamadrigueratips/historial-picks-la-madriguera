@@ -495,6 +495,18 @@
       "resultado": "pendiente",
       "archivo": "picks/2026-11-01-academico-viseu-vs-rio-ave.md",
       "marcador": ""
+    },
+    {
+      "id": 43,
+      "fecha_partido": "2026-11-01",
+      "partido": "Nashville SC vs New York Red Bulls",
+      "competicion": "MLS, temporada regular",
+      "pick": "Nashville SC gana (resultado final) + más de 1,5 goles",
+      "cuota": 1.64,
+      "stake_u": 1,
+      "resultado": "pendiente",
+      "archivo": "picks/2026-11-01-nashville-sc-vs-new-york-red-bulls.md",
+      "marcador": ""
     }
   ],
   "updated": "2026-11-01"
