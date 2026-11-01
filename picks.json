@@ -483,6 +483,18 @@
       "resultado": "pendiente",
       "archivo": "picks/2026-11-01-ss-arezzo-vs-ascoli-calcio.md",
       "marcador": ""
+    },
+    {
+      "id": 42,
+      "fecha_partido": "2026-11-01",
+      "partido": "Académico Viseu vs Rio Ave",
+      "competicion": "Primeira Liga, jornada 10",
+      "pick": "Académico Viseu gana (resultado final)",
+      "cuota": 1.81,
+      "stake_u": 1,
+      "resultado": "pendiente",
+      "archivo": "picks/2026-11-01-academico-viseu-vs-rio-ave.md",
+      "marcador": ""
     }
   ],
   "updated": "2026-11-01"
