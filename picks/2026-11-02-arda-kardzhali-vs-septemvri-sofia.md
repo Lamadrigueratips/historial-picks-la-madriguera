@@ -5,8 +5,8 @@
 - **Pick:** FC Arda Kardzhali gana (resultado final)
 - **Cuota:** 1.57 (según captura; casa no visible en la captura)
 - **Stake:** 1 unidad
-- **Estado:** Pendiente
-- **Resultado:** Pendiente. Se sellará tras el partido, sin editar este registro previo.
+- **Estado:** Sellado (verde)
+- **Resultado:** VERDE (+0,57u). FC Arda Kardzhali 2-1 FK Septemvri Sofia (goles: Kovachev 6', Liberal 23', Paskalev 26').
 
 ## Registro previo
 
@@ -29,3 +29,10 @@ Mercado confirmado en chat antes del registro: victoria simple del Arda Kardzhal
 ## Juego responsable
 
 Solo para mayores de 18 años. La probabilidad de ser un jugador que pierde dinero es del 75 % Más información en juegoseguro.es.
+
+## Sellado (02-11-2026, tras el partido)
+
+- **Resultado final:** FC Arda Kardzhali 2-1 FK Septemvri Sofia. Goles: Svetoslav Kovachev 6' (1-0), André Liberal 23' (1-1, tras fallar un penalti en la misma jugada), Martin Paskalev 26' (2-1). Verificado en tres fuentes independientes (Sportradar, OddAlerts y DailySports).
+- **Veredicto:** VERDE, +0,57u. El Arda ganó el partido, así que la victoria simple @1,57 entra.
+- **Balance tras el sellado:** 44 sellados, 25 verdes, 19 rojos, +0,97u.
+- **Banner resultado:** `banners/banner-pick44-arda-ganado-20261102.png` (el banner prepartido no se modifica).
