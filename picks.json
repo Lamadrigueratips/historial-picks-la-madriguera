@@ -528,10 +528,11 @@
       "pick": "SD Eibar gana + más de 1 gol + más de 1,5 goles en Bodø/Glimt vs Lille",
       "cuota": 1.61,
       "stake_u": 1,
-      "resultado": "pendiente",
+      "resultado": "anulado",
       "archivo": "picks/2026-11-03-pamplona-eibar-bodo-glimt-lille.md",
-      "marcador": ""
+      "marcador": "Bodø/Glimt 0-0 Lille · Pamplona-Eibar aplazado (sin jugar)",
+      "motivo_anulacion": "Anulado por orden de Miguel (04-11-2026): CD Pamplona vs SD Eibar aplazado por la RFEF el 03-11-2026 tras el fallecimiento de Jesús de Miguel, sin nueva fecha anunciada (segundo aplazamiento; el primero fue el 28-10 por el accidente ferroviario de Urda). Bodø/Glimt-Lille terminó 0-0, pero la anulación se decide por el aplazamiento, no por ese resultado. No cuenta como verde ni como rojo."
     }
   ],
-  "updated": "2026-11-03"
+  "updated": "2026-11-04"
 }
