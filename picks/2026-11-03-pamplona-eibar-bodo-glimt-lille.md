@@ -5,8 +5,8 @@
 - **Pick (doble):** SD Eibar gana + más de 1 gol @1,41 + más de 1,5 goles en Bodø/Glimt vs Lille @1,14
 - **Cuota combinada:** 1.61 (según captura de Bet365)
 - **Stake:** 1 unidad
-- **Estado:** Pendiente
-- **Resultado:** Pendiente. Se sellará tras los partidos, sin editar este registro previo.
+- **Estado:** Anulado
+- **Resultado:** Anulado. No se sella; ver sección Anulación.
 
 ## Registro previo
 
@@ -32,3 +32,10 @@ Nota: la captura mostraba la etiqueta "GV 2 goles de ventaja" en la pata del Eib
 ## Juego responsable
 
 Solo para mayores de 18 años. Las pérdidas del total de jugadores superan en 4 veces sus ganancias. Más información en juegoseguro.es.
+
+## Anulación
+
+- **Fecha:** 2026-11-04, por orden expresa de Miguel en chat.
+- **Motivo:** CD Pamplona vs SD Eibar aplazado por la RFEF el 03-11-2026 tras el fallecimiento de Jesús de Miguel (CD Tenerife), sin nueva fecha anunciada. Era el segundo aplazamiento del partido (el primero, el 28-10, por el accidente ferroviario de Urda).
+- **Dato:** Bodø/Glimt-Lille terminó 0-0 el 03-11-2026, pero la anulación se decide por el aplazamiento, no por ese resultado.
+- **Efecto:** este pick no cuenta como verde ni como rojo; los balances no cambian. El registro previo queda intacto y visible.
