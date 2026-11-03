@@ -519,7 +519,19 @@
       "resultado": "verde",
       "archivo": "picks/2026-11-02-arda-kardzhali-vs-septemvri-sofia.md",
       "marcador": "FC Arda Kardzhali 2-1 FK Septemvri Sofia (Arda gana ✓)"
+    },
+    {
+      "id": 45,
+      "fecha_partido": "2026-11-03",
+      "partido": "CD Pamplona vs SD Eibar + FK Bodø/Glimt vs LOSC Lille",
+      "competicion": "Copa del Rey, 1ª ronda + Champions League, jornada 4",
+      "pick": "SD Eibar gana + más de 1 gol + más de 1,5 goles en Bodø/Glimt vs Lille",
+      "cuota": 1.61,
+      "stake_u": 1,
+      "resultado": "pendiente",
+      "archivo": "picks/2026-11-03-pamplona-eibar-bodo-glimt-lille.md",
+      "marcador": ""
     }
   ],
-  "updated": "2026-11-02"
+  "updated": "2026-11-03"
 }
