@@ -544,6 +544,66 @@
       "resultado": "rojo",
       "archivo": "picks/2026-11-05-universitario-sport-boys.md",
       "marcador": "Universitario de Deportes 2-2 Sport Boys Association"
+    },
+    {
+      "id": 47,
+      "fecha_partido": "2026-11-07",
+      "partido": "CSC 1599 Șelimbăr vs CSL Ștefăneștii de Jos",
+      "competicion": "Liga II (Rumanía), jornada 13",
+      "pick": "CSC 1599 Șelimbăr gana (resultado final)",
+      "cuota": 1.65,
+      "stake_u": 1,
+      "resultado": "pendiente",
+      "archivo": "picks/2026-11-07-selimbar-stefanesti.md",
+      "marcador": ""
+    },
+    {
+      "id": 48,
+      "fecha_partido": "2026-11-07",
+      "partido": "FC Hansa Rostock vs SG Sonnenhof Großaspach",
+      "competicion": "3. Liga (Alemania), jornada 13",
+      "pick": "FC Hansa Rostock gana (resultado final)",
+      "cuota": 1.57,
+      "stake_u": 1,
+      "resultado": "pendiente",
+      "archivo": "picks/2026-11-07-hansa-rostock-sonnenhof.md",
+      "marcador": ""
+    },
+    {
+      "id": 49,
+      "fecha_partido": "2026-11-07",
+      "partido": "Chennaiyin FC vs East Bengal FC",
+      "competicion": "Indian Super League, jornada 5",
+      "pick": "East Bengal FC gana (resultado final)",
+      "cuota": 1.7,
+      "stake_u": 1,
+      "resultado": "pendiente",
+      "archivo": "picks/2026-11-07-chennaiyin-east-bengal.md",
+      "marcador": ""
+    },
+    {
+      "id": 50,
+      "fecha_partido": "2026-11-07",
+      "partido": "Górnik Zabrze vs Wieczysta Kraków",
+      "competicion": "Ekstraklasa (Polonia), jornada 14",
+      "pick": "Górnik Zabrze gana (resultado final)",
+      "cuota": 1.6,
+      "stake_u": 1,
+      "resultado": "pendiente",
+      "archivo": "picks/2026-11-07-gornik-wieczysta.md",
+      "marcador": ""
+    },
+    {
+      "id": 51,
+      "fecha_partido": "2026-11-08",
+      "partido": "Club Brugge KV vs RSC Anderlecht",
+      "competicion": "Jupiler Pro League (Bélgica)",
+      "pick": "Club Brugge KV gana (resultado final)",
+      "cuota": 1.5,
+      "stake_u": 1,
+      "resultado": "pendiente",
+      "archivo": "picks/2026-11-08-club-brugge-anderlecht.md",
+      "marcador": ""
     }
   ],
   "updated": "2026-11-05"
